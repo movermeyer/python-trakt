@@ -8,10 +8,10 @@ Python interface to trakt.tv API
 .. image:: https://coveralls.io/repos/z4r/python-trakt/badge.png?branch=master
     :target: https://coveralls.io/r/z4r/python-trakt
     
-.. image:: https://pypip.in/v/python-trakt/badge.png
+.. image:: https://img.shields.io/pypi/v/python-trakt.svg
    :target: https://crate.io/packages/python-trakt/
 
-.. image:: https://pypip.in/d/python-trakt/badge.png
+.. image:: https://img.shields.io/pypi/dm/python-trakt.svg
    :target: https://crate.io/packages/python-trakt/
 
 This package provides a module to interface with the `trakt.tv`_ `API`_.
